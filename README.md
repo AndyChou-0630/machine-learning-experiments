@@ -2,8 +2,8 @@
 
 This repository contains my machine learning projects built with Python and Google Colab.
 
-Use tensorflow, keras <br>
-Use Depthwise Separable Convolution and ResNet v2 for model building
+Use tensorflow, keras. <br>
+Use Depthwise Separable Convolution and ResNet v2 for model building.
 
 ## Projects
-- [Facial Recongnition with Deep Learning](AI_Deep_Learning_(Self_Trained)_Facial_Recognition_System.ipynb)
+- [Facial Recognition with Deep Learning](AI_Deep_Learning_(Self_Trained)_Facial_Recognition_System.ipynb)
