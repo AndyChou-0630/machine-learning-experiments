@@ -1,8 +1,6 @@
 # Machine Learning Portfolio
 
 This repository contains my machine learning projects built with Python and Google Colab.
-
-Use tensorflow, keras. <br>
 Use Depthwise Separable Convolution and ResNet v2 for model building.
 
 ## Projects
