@@ -2,4 +2,5 @@
 
 This repository contains my machine learning projects written in Python using Google Colab.
 
-## Projects
+Use tensorflow, keras
+Use Depthwise Separable Convolution and ResNet v2 for model building
